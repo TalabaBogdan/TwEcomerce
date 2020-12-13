@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5423ec84-171c-4302-bd52-7c731f7b6118" name="Default Changelist" comment="" />
+    <list default="true" id="5423ec84-171c-4302-bd52-7c731f7b6118" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/productStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/recommend1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/recommend2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/recommend3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/shoe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/shoe2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/shoe3.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +26,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -23,16 +41,37 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\Squizey\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.5981.135\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Squizey\Git\TwEcomerce\css" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="products.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/products.js" working-dir="$PROJECT_DIR$/routes">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.products.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +87,16 @@
       <workItem from="1605693429028" duration="136000" />
       <workItem from="1605694784939" duration="90000" />
       <workItem from="1605695138787" duration="6847000" />
-      <workItem from="1605720300906" duration="2721000" />
+      <workItem from="1605720300906" duration="3377000" />
+      <workItem from="1606045619571" duration="697000" />
+      <workItem from="1606118172685" duration="595000" />
+      <workItem from="1607182528191" duration="4563000" />
+      <workItem from="1607192703120" duration="819000" />
+      <workItem from="1607194092753" duration="1960000" />
+      <workItem from="1607616234905" duration="29000" />
+      <workItem from="1607780384160" duration="1352000" />
+      <workItem from="1607860374071" duration="1711000" />
+      <workItem from="1607866537482" duration="15000" />
     </task>
     <servers />
   </component>
